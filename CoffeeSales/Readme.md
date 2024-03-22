@@ -1,10 +1,13 @@
 # Coffee Sales Dashboard
 
 ## Project Overview
-This project demonstrates my comprehensive data analysis and visualization skills, focusing on a coffee sales dashboard created in Excel. It highlights my ability to manage and analyze large datasets, employ advanced Excel functions, and develop insightful visualizations. 
+This Excel project showcases my skills in analyzing and visualizing coffee sales data. I merged data from different sources, applied advanced Excel functions for analysis, and created an interactive dashboard
 
 ## Key Features
-- **Data Integration:** I retrieved data from two other datasets to create a merged dataset for my visuals. I retrieved data from the customer and product datasets using XLOOKUP, INDEX, and MATCH functions.
-- **Data Transformation:** I utilized nested IF statements for clearer labeling and standardized formats for dates, coffee sizes, and currency for clarity and analysis.
-- **Visualization:** A comprehensive dashboard was created which includes interactive elements such as a timeline, slicers, and filters.
+- **Data Integration:** Merged customer and product data using XLOOKUP, INDEX, and MATCH.
+- **Data Transformation:** Improved data readability with nested IF statements and standardized formats for dates, coffee sizes, and currency.
+- **Visualization:** Developed an interactive dashboard with a timeline, slicers, and filters for detailed sales analysis.
+
+## Impact
+The dashboard aids in understanding sales trends, identifying customer preferences, and making informed business decisions.
 
