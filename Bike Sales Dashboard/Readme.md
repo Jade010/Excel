@@ -1,6 +1,6 @@
 # Bike Sales Dashboard Project
 ## Project Overview
-This project involved the creatiion of an Excel dashboard to analyze and visualize bike sales data. The primary goal was to provide clear and insightful visuals that aid in understanding the trends and patterns in bike sales based on various customer demographics and behaviors. This excel dashboard serves as a comprehensive tool for analyzing bike sales data. Through careful data cleaning, transformation, and visualization, the dashboard highlights key patterns and trends in customer behavior and preferences, aiding in strategic decision making for bike sales.
+This project involved creating an Excel dashboard to analyze and visualize bike sales data. The primary goal was to provide clear and insightful visuals that aid in understanding the trends and patterns in bike sales based on various customer demographics and behaviors. This excel dashboard serves as a comprehensive tool for analyzing bike sales data. Through data cleaning, transformation, and visualization, the dashboard highlights key patterns and trends in customer behavior and preferences, aiding in strategic decision making for bike sales.
 
 ## Key Features
 - **Data Cleaning:** Started by cleaning the dataset to ensure accuracy and reliability. This involved removing duplicate entries.
