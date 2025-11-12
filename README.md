@@ -1,7 +1,7 @@
 # Excel Repository
 
 ## Overview
-Welcome to my Excel Repository! Excel can perform a wide array of functions that can be useful for data cleanining, preparation, visualization, statistical analysis, Pivot Tables, and so much more. Excel is something I use very often, so this repository will contain finished side projects I've worked on for fun.
+Welcome to my Excel Repository! Excel can perform a wide array of functions that can be useful for data cleanining, preparation, visualization, statistical analysis, Pivot Tables, and so much more. Excel is something I use very often, for work and home. I often use it to manage my personal budget, for quick analysis, or as a tool for ad hoc reports.
 
 ## Areas of Focus
 1. **Data Cleaning**
